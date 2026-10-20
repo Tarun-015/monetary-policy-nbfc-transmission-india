@@ -88,37 +88,6 @@ The study explores whether lending growth responds differently during rate-hikin
 
 These findings should be interpreted as conditional associations rather than causal effects.
 
-## Economic Interpretation
-
-NBFCs differ from banks in their funding structures and business models. Commercial paper may reprice relatively quickly, fixed-rate non-convertible debentures may adjust more gradually, and bank borrowings may be linked to the lending bank's pricing benchmarks.
-
-Consequently, the timing and strength of monetary policy transmission may depend on the maturity and composition of an NBFC's liabilities, its access to market funding, borrower demand, and perceived credit risk.
-
-The study highlights why a single sector-wide estimate may conceal important differences between individual institutions.
-
-## Policy Implications
-
-The findings motivate several policy considerations:
-
-- Monitor NBFC funding conditions alongside policy-rate movements.
-- Consider refinancing risk and liability maturity structures when assessing monetary transmission.
-- Examine institution-level differences rather than relying exclusively on sector averages.
-- Interpret changes in lending growth in conjunction with borrower demand, asset quality, and broader macroeconomic conditions.
-- Encourage further research using larger samples and methods that account for common shocks and within-company dependence.
-
-These are policy considerations informed by the analysis, not causal conclusions established by the regressions.
-
-## Limitations
-
-The study has several limitations:
-
-- The sample contains only five listed NBFCs and may not represent the entire sector.
-- The observational design does not establish that repo rate changes cause changes in loan growth.
-- Conventional pooled OLS standard errors may understate uncertainty because macroeconomic variables and the repo rate vary over time and observations are not necessarily independent.
-- The COVID-19 shock and subsequent recovery may confound estimated lag relationships.
-- The study does not directly establish the complete causal pathway from repo rate changes through funding costs to lending decisions.
-- The asymmetry analysis is exploratory and remains inconclusive.
-
 
 ## Conclusion
 
